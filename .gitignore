@@ -1,0 +1,15 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# MATLAB
+*.asv
+*.m~
+
+# archives (same content as folders)
+*.zip
